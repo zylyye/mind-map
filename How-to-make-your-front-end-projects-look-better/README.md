@@ -11,5 +11,3 @@
 ## icons and images
 
 ## css animations
-
-*XMind: ZEN - Trial Version*
